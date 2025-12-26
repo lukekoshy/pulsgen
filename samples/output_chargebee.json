@@ -1,0 +1,79 @@
+[
+    {
+        "module": "Subscription Management",
+        "Description": "Create, modify, and manage customer subscriptions throughout their lifecycle including upgrades, downgrades, and cancellations.",
+        "Submodules": {
+            "Create Subscription": "Set up new subscriptions with plans, add-ons, and billing cycles.",
+            "Subscription Changes": "Handle upgrades, downgrades, and plan changes with proration options.",
+            "Pause and Resume": "Temporarily pause subscriptions and resume them when ready.",
+            "Cancellation Handling": "Process subscription cancellations with retention offers and feedback collection.",
+            "Subscription Statuses": "Understanding different subscription states: active, trial, cancelled, paused."
+        }
+    },
+    {
+        "module": "Billing and Invoicing",
+        "Description": "Automate billing operations, generate invoices, and manage payment collection for subscriptions.",
+        "Submodules": {
+            "Invoice Generation": "Automatic and manual invoice creation with customizable templates.",
+            "Proration": "Calculate prorated charges for mid-cycle subscription changes.",
+            "Credit Notes": "Issue credit notes for refunds and billing adjustments.",
+            "Metered Billing": "Charge customers based on usage metrics and consumption.",
+            "Invoice Customization": "Customize invoice templates with branding, notes, and line items."
+        }
+    },
+    {
+        "module": "Payment Processing",
+        "Description": "Integrate with payment gateways to collect payments securely and manage payment methods.",
+        "Submodules": {
+            "Payment Gateways": "Connect with Stripe, Braintree, PayPal, Adyen, and other payment processors.",
+            "Payment Methods": "Support for credit cards, ACH, SEPA, direct debit, and digital wallets.",
+            "Failed Payment Handling": "Smart retry logic and dunning management for failed payments.",
+            "PCI Compliance": "Secure payment collection without storing sensitive card data.",
+            "Multi-Currency": "Accept payments in multiple currencies with automatic conversion."
+        }
+    },
+    {
+        "module": "Revenue Recognition",
+        "Description": "Automate revenue recognition to comply with ASC 606 and IFRS 15 accounting standards.",
+        "Submodules": {
+            "Deferred Revenue": "Track and recognize deferred revenue over subscription periods.",
+            "Revenue Reports": "Generate monthly and annual revenue recognition reports.",
+            "Journal Entries": "Automatic journal entry generation for accounting systems.",
+            "Audit Trail": "Complete audit trail of all revenue recognition activities.",
+            "Accounting Integrations": "Sync with QuickBooks, Xero, NetSuite, and other accounting software."
+        }
+    },
+    {
+        "module": "Customer Portal",
+        "Description": "Self-service portal where customers can manage their subscriptions, payments, and account details.",
+        "Submodules": {
+            "Portal Configuration": "Customize the customer portal with your branding and allowed actions.",
+            "Self-Service Actions": "Enable customers to update payment methods, change plans, and view invoices.",
+            "Portal Access": "Generate unique portal access links for customers.",
+            "Mobile Optimization": "Responsive portal design for mobile device access.",
+            "Portal Analytics": "Track customer portal usage and self-service adoption."
+        }
+    },
+    {
+        "module": "Analytics and Reporting",
+        "Description": "Monitor key subscription metrics, MRR, churn, and generate business intelligence reports.",
+        "Submodules": {
+            "MRR Tracking": "Track Monthly Recurring Revenue with growth, churn, and expansion breakdown.",
+            "Churn Analysis": "Analyze customer churn rates and identify patterns.",
+            "Cohort Analysis": "Segment customers by signup date to analyze retention trends.",
+            "Custom Reports": "Build custom reports with filters and exportable data.",
+            "Dashboard Widgets": "Configurable dashboard with key metrics and visualizations."
+        }
+    },
+    {
+        "module": "API and Webhooks",
+        "Description": "Integrate Chargebee with your applications using the REST API and receive real-time event notifications.",
+        "Submodules": {
+            "REST API": "Comprehensive API for managing subscriptions, customers, and invoices programmatically.",
+            "Webhooks": "Receive real-time notifications for subscription events like renewals and cancellations.",
+            "API Authentication": "Secure API access with API keys and authentication best practices.",
+            "Rate Limits": "Understanding API rate limits and optimization strategies.",
+            "SDKs and Libraries": "Official SDKs for Python, Ruby, PHP, Java, and other languages."
+        }
+    }
+]

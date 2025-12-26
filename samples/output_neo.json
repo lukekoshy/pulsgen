@@ -1,0 +1,53 @@
+[
+    {
+        "module": "Getting Started",
+        "Description": "Essential guides for new users to set up and begin using Neo, including account creation, initial configuration, and basic navigation.",
+        "Submodules": {
+            "Create Account": "Step-by-step guide to creating your Neo account with email verification and profile setup.",
+            "Dashboard Overview": "Understanding the main dashboard layout, key metrics, and navigation elements.",
+            "Initial Setup": "Configure your workspace preferences, timezone settings, and notification options.",
+            "Quick Start Guide": "A fast-track tutorial to get you productive with Neo in under 10 minutes."
+        }
+    },
+    {
+        "module": "Account Management",
+        "Description": "Comprehensive documentation for managing your Neo account settings, security options, and profile information.",
+        "Submodules": {
+            "Profile Settings": "Update your personal information, avatar, display name, and contact details.",
+            "Security Settings": "Manage two-factor authentication, password changes, and security notifications.",
+            "Billing Information": "View and manage payment methods, billing addresses, and transaction history.",
+            "Account Deletion": "Process for permanently deleting your account and associated data."
+        }
+    },
+    {
+        "module": "Team Collaboration",
+        "Description": "Features and tools for working effectively with team members, including permissions, sharing, and communication.",
+        "Submodules": {
+            "Invite Team Members": "Add new members to your workspace via email invitation or shareable links.",
+            "Role Management": "Assign and modify user roles including Admin, Editor, and Viewer permissions.",
+            "Workspaces": "Create and manage separate workspaces for different teams or projects.",
+            "Activity Feed": "Track team activity, changes, and updates in real-time."
+        }
+    },
+    {
+        "module": "Integrations",
+        "Description": "Connect Neo with third-party applications and services to extend functionality and automate workflows.",
+        "Submodules": {
+            "Slack Integration": "Connect Neo with Slack for notifications and quick actions from chat.",
+            "Google Workspace": "Sync with Google Calendar, Drive, and Gmail for seamless productivity.",
+            "API Access": "Documentation for Neo's REST API including authentication and endpoints.",
+            "Webhooks": "Set up webhooks to receive real-time notifications for events in Neo.",
+            "Zapier Connection": "Create automated workflows connecting Neo with 5000+ apps."
+        }
+    },
+    {
+        "module": "Troubleshooting",
+        "Description": "Solutions to common issues and problems users may encounter while using Neo.",
+        "Submodules": {
+            "Login Issues": "Resolve problems with authentication, password reset, and account access.",
+            "Sync Problems": "Fix synchronization issues between devices and integrations.",
+            "Performance Tips": "Optimize Neo's performance with browser recommendations and cache management.",
+            "Contact Support": "How to reach the Neo support team for additional assistance."
+        }
+    }
+]

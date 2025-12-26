@@ -1,0 +1,68 @@
+[
+    {
+        "module": "Block Editor",
+        "Description": "The WordPress Block Editor (Gutenberg) provides a modern content editing experience using modular blocks for different content types.",
+        "Submodules": {
+            "Adding Blocks": "Insert various content blocks including paragraphs, images, galleries, and embeds.",
+            "Block Patterns": "Pre-designed block layouts that can be inserted and customized for common content sections.",
+            "Reusable Blocks": "Create and save custom block configurations to use across multiple posts and pages.",
+            "Block Settings": "Configure individual block options including alignment, colors, and typography.",
+            "Keyboard Shortcuts": "Productivity shortcuts for faster content creation in the block editor."
+        }
+    },
+    {
+        "module": "Themes",
+        "Description": "WordPress themes control the visual appearance and layout of your website, including colors, fonts, and page structures.",
+        "Submodules": {
+            "Installing Themes": "Add new themes from the WordPress repository or upload custom theme files.",
+            "Customizing Themes": "Use the Customizer to modify theme colors, fonts, header, and footer settings.",
+            "Child Themes": "Create child themes to safely customize parent themes without losing changes during updates.",
+            "Full Site Editing": "Use block-based themes to edit all parts of your site including headers and footers.",
+            "Theme Development": "Developer documentation for creating custom WordPress themes."
+        }
+    },
+    {
+        "module": "Plugins",
+        "Description": "Extend WordPress functionality with plugins that add features like contact forms, SEO tools, and e-commerce capabilities.",
+        "Submodules": {
+            "Installing Plugins": "Add plugins from the official repository or upload plugin files directly.",
+            "Plugin Management": "Activate, deactivate, update, and delete plugins from your WordPress site.",
+            "Plugin Security": "Best practices for choosing safe plugins and maintaining site security.",
+            "Must-Use Plugins": "Plugins that are always active and cannot be disabled through the admin interface.",
+            "Plugin Development": "Developer guide for creating custom WordPress plugins with hooks and filters."
+        }
+    },
+    {
+        "module": "Media Library",
+        "Description": "Manage all uploaded files including images, videos, documents, and audio files in the WordPress Media Library.",
+        "Submodules": {
+            "Uploading Media": "Add images, videos, and documents to your site via the media uploader.",
+            "Image Editing": "Crop, rotate, and resize images directly within WordPress.",
+            "Media Settings": "Configure default image sizes, upload directories, and file organization.",
+            "Alt Text and Captions": "Add accessibility descriptions and captions to media files.",
+            "External Media": "Embed content from YouTube, Vimeo, Twitter, and other external sources."
+        }
+    },
+    {
+        "module": "Users and Permissions",
+        "Description": "Manage user accounts, roles, and capabilities to control access to different areas of your WordPress site.",
+        "Submodules": {
+            "User Roles": "Understanding default roles: Administrator, Editor, Author, Contributor, and Subscriber.",
+            "Adding Users": "Create new user accounts and send invitation emails.",
+            "Profile Settings": "Configure user profile information, passwords, and preferences.",
+            "Custom Capabilities": "Define granular permissions for specific actions and content types.",
+            "Two-Factor Authentication": "Enable additional security with two-factor login verification."
+        }
+    },
+    {
+        "module": "Site Performance",
+        "Description": "Optimize your WordPress site for speed and performance to improve user experience and search rankings.",
+        "Submodules": {
+            "Caching": "Implement page caching to reduce server load and improve load times.",
+            "Image Optimization": "Compress and optimize images for faster page loading.",
+            "Database Optimization": "Clean up and optimize the WordPress database for better performance.",
+            "CDN Integration": "Distribute static assets through content delivery networks.",
+            "Performance Monitoring": "Tools and techniques for measuring and tracking site performance."
+        }
+    }
+]

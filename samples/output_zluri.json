@@ -1,0 +1,57 @@
+[
+    {
+        "module": "SaaS Management",
+        "Description": "Discover, manage, and optimize all SaaS applications used across your organization with automated tracking and insights.",
+        "Submodules": {
+            "App Discovery": "Automatically detect all SaaS applications being used through SSO, browser extensions, and financial data.",
+            "App Catalog": "Browse and manage your complete inventory of discovered and approved applications.",
+            "Usage Analytics": "Track application usage patterns, active users, and engagement metrics.",
+            "Duplicate App Detection": "Identify redundant applications serving the same purpose for consolidation.",
+            "Shadow IT Detection": "Discover unauthorized SaaS applications being used without IT approval."
+        }
+    },
+    {
+        "module": "License Management",
+        "Description": "Track, optimize, and manage software licenses to reduce costs and ensure compliance with vendor agreements.",
+        "Submodules": {
+            "License Tracking": "Monitor active licenses, expiration dates, and renewal schedules.",
+            "License Optimization": "Identify unused or underutilized licenses for reallocation or termination.",
+            "Cost Analysis": "Analyze spending patterns and identify opportunities for cost reduction.",
+            "Renewal Management": "Automated reminders and workflows for upcoming license renewals.",
+            "Contract Management": "Store and manage vendor contracts, terms, and compliance requirements."
+        }
+    },
+    {
+        "module": "User Lifecycle Management",
+        "Description": "Automate user provisioning and deprovisioning across all applications during employee onboarding and offboarding.",
+        "Submodules": {
+            "Onboarding Workflows": "Create automated workflows to provision new employees with required applications.",
+            "Offboarding Automation": "Ensure complete access revocation when employees leave the organization.",
+            "Role-Based Access": "Define application access templates based on job roles and departments.",
+            "Access Requests": "Self-service portal for employees to request access to applications.",
+            "Access Reviews": "Periodic reviews to ensure users have appropriate access levels."
+        }
+    },
+    {
+        "module": "Security and Compliance",
+        "Description": "Ensure SaaS application security, monitor risks, and maintain compliance with organizational policies.",
+        "Submodules": {
+            "Security Scoring": "Risk assessment scores for each application based on security practices.",
+            "Compliance Tracking": "Monitor compliance status for SOC 2, GDPR, HIPAA, and other frameworks.",
+            "Data Sharing Analysis": "Identify which applications have access to sensitive organizational data.",
+            "Threat Detection": "Alerts for suspicious activity or unauthorized access patterns.",
+            "Policy Enforcement": "Automated enforcement of security and usage policies."
+        }
+    },
+    {
+        "module": "Vendor Management",
+        "Description": "Centralize vendor relationships, negotiations, and performance tracking for all SaaS providers.",
+        "Submodules": {
+            "Vendor Directory": "Comprehensive database of all SaaS vendors with contact and contract information.",
+            "Spend Analysis": "Track spending by vendor with historical trends and forecasting.",
+            "Negotiation Support": "Benchmark data and insights to support contract negotiations.",
+            "Vendor Risk Assessment": "Evaluate vendor security, stability, and business continuity risks.",
+            "SLA Monitoring": "Track vendor performance against service level agreements."
+        }
+    }
+]
